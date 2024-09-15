@@ -14,7 +14,7 @@
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/chroma-forge.git
+    git clone https://github.com/sharadchaturveda/Chroma-Forge.git
     ```
 
 2. Navigate to the project directory:
